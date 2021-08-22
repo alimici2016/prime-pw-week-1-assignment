@@ -20,7 +20,8 @@ ul{
 }
 
 img {
-  width: 500px
+  width: 500px;
+  border: ;
 }
 
 /* Make the header and footer a different color from the background */
