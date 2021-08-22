@@ -1,4 +1,27 @@
-/* Give your page a fun background color */
+body {
+  background-color: #FF7F50
+}
+
+header,footer {
+  color: #FFFAF0
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  color: #FFA500;
+  font-style: italic;
+}
+
+ul{
+  font-family: Times;
+}
+
+img {
+  width: 500px
+}
 
 /* Make the header and footer a different color from the background */
 
